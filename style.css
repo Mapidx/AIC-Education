@@ -128,7 +128,7 @@ a {
 
 .active_page {
   border-bottom: 4px solid rgb(9, 9, 9);
-  background-color: rgb(250, 249, 249);
+  /* background-color: rgb(250, 249, 249); */
   /* cursor: pointer; */
 }
 
